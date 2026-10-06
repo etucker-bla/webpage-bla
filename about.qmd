@@ -1,0 +1,11 @@
+---
+title: "Company"
+---
+
+Black Lab Analytics offers data science solutions.
+We specialize in baseball analytics, but have experience in
+
+- Public health
+- Climate tech
+- Geospatial analytics
+- Logistics

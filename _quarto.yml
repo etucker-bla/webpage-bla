@@ -5,6 +5,7 @@ website:
   title: "Black Lab Analytics"
   site-url: "https://blacklabanalytics.ai"
   navbar:
+    logo: images/bla-logo.png
     left:
       - href: index.qmd
         text: Home

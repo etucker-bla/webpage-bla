@@ -1,3 +1,5 @@
 ---
 title: "Black Lab Analytics"
+title-block-banner: images/bla-banner.png
+title-block-banner-color: white
 ---
